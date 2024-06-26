@@ -297,7 +297,7 @@ nav{
     place-items: center;
     font-size: 100%;
     background-color: white;
-    height: 100vh;
+    height: auto;
 }
 
 #don{
